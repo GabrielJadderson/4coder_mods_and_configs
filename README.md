@@ -4,4 +4,4 @@ It's a boolean soup from hell so you should be prepared to encounter dragons.
 
 Current State:
 
-()[https://github.com/GabrielJadderson/4coder_mods_and_configs/raw/master/current_state.gif]
+![](https://github.com/GabrielJadderson/4coder_mods_and_configs/raw/master/current_state.gif)
