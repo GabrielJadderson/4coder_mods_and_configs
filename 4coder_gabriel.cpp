@@ -2,7 +2,6 @@
 #include "../4coder_token.h"
 #include "../4coder_base_types.h"
 #include "../4coder_types.h"
-#include "4coder_gabriel_c_ast.h"
 
 //#define HashPrime 317
 #define HashPrime 13331
